@@ -1,0 +1,30 @@
+{
+    "id": 28467179,
+    "name": "explosive",
+    "author": "",
+    "creators": "",
+    "verifier": "flipster09",
+    "verification": "https://youtu.be/p-bsjZbMo_g",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "azadanzan",
+            "link": "https://youtu.be/4ONCpram3w4?si=waaJ-oNMQiRLgT2j",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+          "user": "PeacedBanana",
+          "link": "https://youtu.be/hKSNqbIt5tY?si=ZF-lBX1j511G6IyZ",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "rainityyy",
+          "link": "https://www.youtube.com/shorts/COdeVPWEsyQ",
+          "percent": 100,
+          "hz": "60 + cbf"
+        }
+    ]
+}
