@@ -16,9 +16,15 @@
         },
         {
             "user": "tFluffy",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=XWwA5NP8ePQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "NianiaXD",
+            "link": "https://www.youtube.com/watch?v=itN0EqYnyeI",
+            "percent": 100,
+            "hz": "CBF,240"
         }
     ]
 }
