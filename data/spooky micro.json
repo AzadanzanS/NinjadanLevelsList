@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+        {
+          "user": "Casithecool",
+          "link": "https://youtu.be/IQCGK9QfoqM",
+          "percent": 100,
+          "hz": "240"
+        }
     ]
 }
