@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+         {
+          "user": "sushi_jaiden",
+          "link": "https://youtu.be/Mt32TsW_gIU",
+          "percent": 100,
+          "hz": "240"
+        }
     ]
 }
