@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "",
     "records": [
+        {
+            "user": "versatile",
+            "link": "https://youtu.be/cB7NGP2wSJg",
+            "percent": 100,
+            "hz": "Mobile, 60"
+        }
     ]
 }
